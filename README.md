@@ -16,11 +16,11 @@ Strahlenschutz
 ###StrahlenschutzEinheitenUmrechnung.m
 Zur Umrechnung von nicht-SI-Einheiten in SI-Einheiten und umgekehrt.
 
-`Bq = Ci2Bq ( Ci )`
-`Ci = Bq2Ci ( Bq )`
+`Bq = Ci2Bq ( Ci )` 
+`Ci = Bq2Ci ( Bq )` 
 
-`rd = Gy2rd ( Gy )`
-`Gy = rd2Gy ( rd )`
+`rd = Gy2rd ( Gy )` 
+`Gy = rd2Gy ( rd )` 
 
 `Sv = rem2Sv ( rem )`   
 `rem = Sv2rem ( Sv )`
